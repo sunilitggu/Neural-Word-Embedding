@@ -11,6 +11,10 @@ the probability of a fourth word coming after a trigram (or three words).
 
 E.g.
 Given:
-  ['The', 'dog', 'is'] 
+  ['the', 'dog', 'is']
+
 Predict:
-  The probability that a word comes after
+  The probability of a word coming after the given three
+
+The code is currently configured to be fed the data.mat file provided in the assignment.
+
