@@ -10,6 +10,7 @@ This is a rough python implementation of a neural word embedding model that uses
 the probability of a fourth word coming after a trigram (or three words).
 
 E.g.
+
 Given:
   ['the', 'dog', 'is']
 
